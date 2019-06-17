@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Lesson_0617
+Bundle-SymbolicName: lesson_0617
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: lesson_0617
+Bundle-RequiredExecutionEnvironment: JavaSE-11
